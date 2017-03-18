@@ -1,0 +1,165 @@
+/* FONT FAMILY USED
+font-family: 'Merriweather', serif;
+font-family: 'Josefin Sans', sans-serif;
+-----------------*/
+
+body {
+line-height: 1.5;
+margin: 0;
+padding: 0;
+}
+
+header {
+background-image: url("../images/sunflowers3.jpg");
+color:  #cfbcae;
+text-align: center;
+line-height: 0.5;
+padding: 10px
+
+}
+
+
+header h1 {
+font-family: 'Josefin Sans', sans-serif;
+font-size: 70px;
+font-weight: bold
+color: #564037;
+}
+
+header h2 {
+font-family: 'Josefin Sans', sans-serif;
+font-size: 40px;
+color: #564037;
+}
+
+h1, h2, h3 {
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 700;
+color: #564037;
+}
+
+
+h1 {
+font-size: 30px;
+text-transform: uppercase;
+}
+
+h2 {
+font-size: 25px;
+}
+
+h3 {
+font-size: 18px;
+}
+
+.profile img {
+  border-radius: 50%;
+  float: left;
+  margin-right: 3%;
+  width: 30%;
+}
+
+.content-wrap {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+
+.profile {
+background: #de9602; /* Orange */
+color: #505050;
+font-family: 'Merriweather', serif;
+font-weight: lighter;
+font-size: 16px;
+padding-top: 8px;
+padding-bottom: 10px;
+}
+
+.work {
+background: #fdd021; /* Yellow */
+color: #505050;
+font-family: 'Merriweather', serif;
+font-weight: lighter;
+font-size: 16px;
+margin-top: -25px;
+padding-top: 10px;
+padding-bottom: 10px;
+ }
+
+.work h1 {
+margin-bottom: 0;
+}
+.work h2 {
+margin-bottom: 0;
+margin-top: 0;
+}
+ .work h3 {
+margin-bottom: 0;
+margin-top: 0;
+ }
+
+.date {
+margin-top: 0;
+
+}
+
+.skills {
+background: #fef266; /* Yellow */
+color: #505050;
+font-family: 'Merriweather', serif;
+font-weight: lighter;
+font-size: 16px;
+margin-top: -25px;
+padding-top: 8px;
+padding-bottom: 10px;
+}
+
+.skills h1 {
+margin-bottom: 0;
+}
+
+.skills h2 {
+margin-bottom: 0;
+margin-top: 0;
+}
+.education {
+background: #cfbcae; /* Light-Brown*/
+color: #505050;
+font-family: 'Merriweather', serif;
+font-weight: lighter;
+font-size: 16px;
+margin-top: -25px;
+margin-bottom: 0;
+padding-top: 8px;
+
+ }
+
+ .education h1 {
+margin-bottom: 0;
+ }
+ .education h2 {
+margin-bottom: 0;
+margin-top: 0;
+ }
+
+ .education h3 {
+margin-bottom: 0;
+ }
+
+.education p {
+margin-top: 0;
+}
+
+.contact {
+background: #564037; /*Brown*/
+color: #ffffff;
+font-family: 'Merriweather', serif;
+font-weight: lighter;
+font-size: 16px;
+margin-top: -25px;
+padding-top: 8px;
+}
+
+footer h1 {
+  color: #ffffff;
+}
