@@ -7,6 +7,7 @@ body {
 line-height: 1.5;
 margin: 0;
 padding: 0;
+color: #505050;
 }
 
 section{
@@ -156,14 +157,11 @@ margin-top: 0;
 
 .contact {
 background: #564037; /*Brown*/
-color: #ffffff;
 font-family: 'Merriweather', serif;
 font-weight: lighter;
 font-size: 16px;
 margin-top: -25px;
 padding-top: 8px;
-}
+background-image: url("../images/sunflowers3.jpg");
 
-footer h1 {
-  color: #ffffff;
 }
