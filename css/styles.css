@@ -9,6 +9,10 @@ margin: 0;
 padding: 0;
 }
 
+section{
+padding: 20px;
+}
+
 header {
 background-image: url("../images/sunflowers3.jpg");
 color:  #cfbcae;
