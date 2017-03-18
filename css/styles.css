@@ -2,6 +2,22 @@
 font-family: 'Merriweather', serif;
 font-family: 'Josefin Sans', sans-serif;
 -----------------*/
+a {
+color: #cfbcae;
+}
+
+.download {
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: #cfbcae;
+  color: #FDD021;
+  padding: 10px;
+}
+
+a:hover {
+color: #E80C7A;
+}
 
 body {
 line-height: 1.5;
@@ -74,9 +90,15 @@ color: #cfbcae; /* Light-Brown*/
   border-radius: 50%;
   float: left;
   margin-right: 3%;
-  width: 30%;
+  width: 40%;
 }
-
+.profile .summary {
+  float: left;
+  width: 57%;
+}
+.clear {
+  clear: both;
+}
 .content-wrap {
   width: 1000px;
   margin: 0 auto;
@@ -92,6 +114,7 @@ font-weight: 300;
 font-size: 16px;
 padding-top: 30px;
 padding-bottom: 30px;
+text-align: justify;
 }
 
 .profile h1 {
@@ -188,5 +211,15 @@ font-size: 20px;
 margin-top: -25px;
 padding-top: 8px;
 color: #cfbcae; /* Light-Brown*/
+}
+
+.fa {
+color: #cfbcae;
+
+
+
+width: 100px;
+}
+.
 
 }
